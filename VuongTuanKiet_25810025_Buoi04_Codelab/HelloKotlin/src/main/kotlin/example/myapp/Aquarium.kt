@@ -49,9 +49,9 @@ class TowerTank(
 ) {
     override var volume: Int
         // ellipse area = π * r1 * r2
-        get() = (width/2 * length/2 * height / 1000 * PI).toInt()
+        get() = (width / 2.0 * length / 2.0 * height / 1000 * PI).toInt()
         set(value) {
-            height = ((value * 1000 / PI) / (width/2 * length/2)).toInt()
+            height = ((value * 1000 / PI) / (width / 2.0 * length / 2.0)).toInt()
         }
 
     override var water = volume * 0.8
