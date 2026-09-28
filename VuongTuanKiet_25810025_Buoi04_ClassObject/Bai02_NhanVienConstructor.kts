@@ -42,3 +42,5 @@ fun main() {
     println("Nhân viên 2:")
     nv2.inThongTin()
 }
+
+main()
