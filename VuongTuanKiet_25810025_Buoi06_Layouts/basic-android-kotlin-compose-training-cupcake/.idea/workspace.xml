@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AndroidLayouts">
-    <shared>
-      <config />
-    </shared>
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff510f8b-db6f-4e8c-ac30-47c9ca5ad71a" name="Changes" comment="" />
+    <list default="true" id="7f9215a1-85ef-4a0f-955d-cf36de85d2fe" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,35 +22,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4,
-  &quot;fromUser&quot;: false
-}</component>
-  <component name="ProjectId" id="3KgrlMOzYVcfR9dI8howM5espqS" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3KbPLs1oJOolZF3No4AIdar8RIo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Android App.app.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "PROJECT_TRUSTED_KEY": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "room",
+    "git-widget-placeholder": "navigation",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/keith/HCMUTE/2026/SemesterI/Mobile/Excersises/VuongTuanKiet_25810025_LTDD/VuongTuanKiet_25810025_Buoi10_AppArchitectPersistence/persist-data-with-room"
+    "last_opened_file_path": "/Users/keith/HCMUTE/2026/SemesterI/Mobile/Excersises/VuongTuanKiet_25810025_LTDD/VuongTuanKiet_25810025_Buoi06_Layouts/basic-android-kotlin-compose-training-cupcake"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="Inventory.app" />
+      <module name="Cupcake.app" />
       <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -120,14 +112,25 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="basic-android-kotlin-compose-training-cupcake" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="basic-android-kotlin-compose-training-cupcake" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ff510f8b-db6f-4e8c-ac30-47c9ca5ad71a" name="Changes" comment="" />
-      <created>1791990205861</created>
+      <changelist id="7f9215a1-85ef-4a0f-955d-cf36de85d2fe" name="Changes" comment="" />
+      <created>1791823241553</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1791990205861</updated>
+      <updated>1791823241553</updated>
     </task>
     <servers />
   </component>
